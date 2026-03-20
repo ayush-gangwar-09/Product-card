@@ -33,8 +33,6 @@ Product-Card
 
 │── index.html
 
-│── style.css
-
 │── smart watch.jpg
 
 ## 🎯 Learning Outcomes
